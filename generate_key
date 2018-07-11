@@ -2,4 +2,4 @@ ssh-keygen
 /root/.ssh/XXXXXXXXXX
 ssh-agent bash
 ssh-add ~/.ssh/XXXXXXXXX
-ssh-add -l
+ssh-add -l                          (All these commands are needed everytime you logout and log back in.)
