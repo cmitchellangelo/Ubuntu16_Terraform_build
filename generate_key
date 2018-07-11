@@ -1,0 +1,5 @@
+ssh-keygen
+/root/.ssh/XXXXXXXXXX
+ssh-agent bash
+ssh-add ~/.ssh/XXXXXXXXX
+ssh-add -l
